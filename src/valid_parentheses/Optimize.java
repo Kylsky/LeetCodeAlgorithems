@@ -1,7 +1,5 @@
 package valid_parentheses;
 
-import com.sun.org.apache.xalan.internal.xsltc.compiler.util.StringStack;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
