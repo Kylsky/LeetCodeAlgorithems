@@ -35,6 +35,6 @@ public class Solution {
         listNode.next = listNode2;
         listNode2.next = listNode3;
         Solution solution = new Solution();
-        solution.deleteDuplicates(listNode  );
+        solution.deleteDuplicates(listNode);
     }
 }
