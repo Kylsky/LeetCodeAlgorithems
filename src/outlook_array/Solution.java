@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 import java.util.Stack;
-
+//No.38
 public class Solution {
     public String countAndSay(int n) {
         if (n==1){
