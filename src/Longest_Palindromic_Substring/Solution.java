@@ -1,6 +1,4 @@
-package longest_Palindromic_Substring;
-
-import java.util.Arrays;
+package longest_palindromic_substring;
 
 //No.5 longest-palindromic-substring
 public class Solution {
