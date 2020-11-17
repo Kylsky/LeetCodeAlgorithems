@@ -2,7 +2,7 @@ package median_of_two_sorted_arrays;
 
 public class Solution2 {
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        //k是需要找到的元素下标
+        //k是需要找到的第n个元素
         int k = (nums1.length+nums2.length)/2;
         if ((nums1.length+nums2.length)%2!=0){
             return calculate(nums1,nums2,k+1);
