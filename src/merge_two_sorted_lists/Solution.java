@@ -1,6 +1,5 @@
-package merge_two_sorted_list;
+package merge_two_sorted_lists;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;

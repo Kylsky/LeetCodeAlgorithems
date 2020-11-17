@@ -1,8 +1,4 @@
-package merge_two_sorted_list;
-
-import java.util.Collections;
-import java.util.LinkedList;
-import java.util.List;
+package merge_two_sorted_lists;
 
 public class Solution2 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

@@ -1,8 +1,4 @@
-package merge_two_sorted_list;
-
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+package merge_two_sorted_lists;
 
 
 //Runtime: 0 ms, faster than 100.00% of Java online submissions for Merge Two Sorted Lists.
