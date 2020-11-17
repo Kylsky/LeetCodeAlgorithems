@@ -1,5 +1,6 @@
 package remove_duplicates_from_sorted_list;
 
+//No.83 remove-duplicates-from-sorted-list
 //执行用时：0 ms, 在所有 Java 提交中击败了100.00%的用户
 //内存消耗：38 MB, 在所有 Java 提交中击败了82.85%的用户
 class ListNode {
