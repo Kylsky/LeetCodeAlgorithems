@@ -1,5 +1,6 @@
 package strStr;
 
+//No.28 strStr
 public class Solution {
     public int strStr(String haystack, String needle) {
         if (needle.length()==0){
