@@ -27,7 +27,6 @@ public class BigSourceHeap {
     }
     public static void main(String[] args) {
         int result = test(new int[]{9,8,7,6,5});
-
         System.out.println(result);
     }
 }
