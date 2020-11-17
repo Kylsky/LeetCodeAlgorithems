@@ -1,5 +1,6 @@
-package lengthOfLastWord;
+package length_of_last_word;
 
+//No.58 length-of-last-word
 public class Solution {
     public int lengthOfLastWord(String s) {
 //            s = s.trim();
