@@ -1,9 +1,7 @@
-package move_duplicates_from_sorted_array;
+package remove_duplicates_from_sorted_array;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 //Runtime: 599 ms, faster than 5.00% of Java online submissions for Remove Duplicates from Sorted Array.
 //Memory Usage: 41.1 MB, less than 80.07% of Java online submissions for Remove Duplicates from Sorted Array.
